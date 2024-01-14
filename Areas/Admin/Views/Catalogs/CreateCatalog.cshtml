@@ -1,0 +1,68 @@
+﻿@model Portfolio.web.ViewModels.Catalogs.CreatCatalogsViewModel
+
+
+@{
+    ViewData["Title"] = "افزودن کاتالوگ جدید";
+}
+
+<form method="post" asp-area="Admin" asp-controller="Catalogs" asp-action="CreateCatalog" enctype="multipart/form-data">
+    <div class="row">
+
+        <div class="col-9">
+            <br />
+            <div class="col-xl-9">
+                <div class="card pd-20 pd-sm-40 form-layout form-layout-4">
+                    <h6 class="card-body-title">@ViewData["Title"]</h6>
+
+                    <div class="row">
+                        <label class="col-sm-4 form-control-label">عنوان: <span class="tx-danger">*</span></label>
+                        <div class="col-sm-8 mg-t-10 mg-sm-t-0">
+                            <input asp-for="Title" class="form-control" placeholder="عنوان">
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+                    </div><!-- row -->
+                    <div class="row mg-t-20">
+                        <label class="col-sm-4 form-control-label">توضیحات: <span class="tx-danger">*</span></label>
+                        <div class="col-sm-8 mg-t-10 mg-sm-t-0">
+                            <textarea asp-for="Description" rows="4" class="form-control" placeholder="توضیحات"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row mg-t-20">
+                        <label class="col-sm-4 form-control-label">لینک: <span class="tx-danger">*</span></label>
+                        <div class="col-sm-8 mg-t-10 mg-sm-t-0">
+                            <input asp-for="Url" rows="4" class="form-control" placeholder="لینک"></input>
+                            <span asp-validation-for="Url" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row mg-t-20">
+                        <label class="col-sm-4 form-control-label">عنوان لینک: <span class="tx-danger">*</span></label>
+                        <div class="col-sm-8 mg-t-10 mg-sm-t-0">
+                            <input asp-for="UrlTitle" rows="4" class="form-control" placeholder="عنوان لینک"></input>
+                            <span asp-validation-for="UrlTitle" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-layout-footer mg-t-30">
+                        <button type="submit" class="btn btn-info mg-r-5">ثبت فرم</button>
+                        <button class="btn btn-secondary">انصراف</button>
+                    </div><!-- form-layout-footer -->
+                </div><!-- card -->
+            </div>
+
+        </div>
+        <div class="col-3">
+          <br/>
+            <div class="widget-header bordered-bottom bordered-blue">
+                <span class="widget-caption"></span>
+            </div>
+            <div class="widget-body">
+                <img src="/images/defaults/default.png" style="width: 100%" alt="" ImageFile="1">
+                <hr>
+                <input type="file" name="Image" accept=".png,.jpeg" ImageInput="1">
+            </div>
+        </div>
+        </div>
+
+    </div>
+</form>

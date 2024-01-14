@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="fa">
+
+<head>
+	<title>DevCard  از فاطمه حیاتی </title> 
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<Partial name="_HeaderReferences.cshtml" />
+
+</head>
+
+<body>
+
+	@await Component.InvokeAsync(name:"SiteHeader")
+	<div class="main-wrapper">
+
+	    @RenderBody()
+
+	@await Component.InvokeAsync(name:"SiteFooter")
+
+	</div>
+	<Partial name="_FooterReferences.cshtml" />
+
+</body>
+
+</html>

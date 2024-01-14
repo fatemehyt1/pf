@@ -1,0 +1,1009 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Portfolio.web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Portfolio.web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\css\\amanda.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\amanda.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\css\\fontiran.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\fontiran.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSans.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSans.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansWeb_Bold.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansWeb_Bold.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansWeb_Boldd41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansWeb_Boldd41d.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansWeb_Lightd41d.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansWeb_Lightd41d.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansWeb_Mediumd41d.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansWeb_Mediumd41d.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansWeb_UltraLight.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansWeb_UltraLight.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansWeb_UltraLightd41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansWeb_UltraLightd41d.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansWebd41d.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansWebd41d.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\eot\\IRANSansd41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\eot\\IRANSansd41d.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\ttf\\IRANSans.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\ttf\\IRANSans.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\ttf\\IRANSansWeb_Medium.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\ttf\\IRANSansWeb_Medium.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\ttf\\IRANSansWeb_UltraLight.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\ttf\\IRANSansWeb_UltraLight.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff2\\IRANSans.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff2\\IRANSans.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff2\\IRANSansWeb_Bold.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff2\\IRANSansWeb_Bold.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff2\\IRANSansWeb_UltraLight.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff2\\IRANSansWeb_UltraLight.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff\\IRANSans.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff\\IRANSans.woff"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff\\IRANSansWeb.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff\\IRANSansWeb.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff\\IRANSansWeb_Bold.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff\\IRANSansWeb_Bold.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff\\IRANSansWeb_Light.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff\\IRANSansWeb_Light.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\fonts\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img10.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img11.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img12.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img5.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img6.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img7.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img8.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\img\\img9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\img9.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\ResizeSensor.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\ResizeSensor.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\amanda.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\amanda.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\chart.chartjs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.chartjs.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\chart.flot.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.flot.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\chart.morris.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.morris.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\chart.rickshaw.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.rickshaw.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\chart.sparkline.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.sparkline.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\map.apple.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\map.apple.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\map.bluewater.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\map.bluewater.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\map.mapbox.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\map.mapbox.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\map.shadesofgray.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\map.shadesofgray.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\map.shiftworker.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\map.shiftworker.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\Ø§Ø¨Ø²Ø§Ø±Ú© Ù\u0087Ø§.html",
+      "PackagePath": "staticwebassets\\Admin\\js\\Ø§Ø¨Ø²Ø§Ø±Ú© Ù\u0087Ø§.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\js\\Ø§Ø¨Ø²Ø§Ø±Ú© Ù\u0087Ø§.js.z",
+      "PackagePath": "staticwebassets\\Admin\\js\\Ø§Ø¨Ø²Ø§Ø±Ú© Ù\u0087Ø§.js.z"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\Flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\Flot\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\Flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\Flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\Flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\Flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\Ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\Ionicons\\css\\ionicons.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\Ionicons\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\Admin\\lib\\Ionicons\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\Ionicons\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\Admin\\lib\\Ionicons\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\Ionicons\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\Admin\\lib\\Ionicons\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\Ionicons\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\Admin\\lib\\Ionicons\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\SpinKit\\spinkit.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\SpinKit\\spinkit.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\d3\\d3.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\d3\\d3.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\datatables-responsive\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\datatables-responsive\\dataTables.responsive.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\datatables\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\datatables\\jquery.dataTables.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\flot-spline\\jquery.flot.spline.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\flot-spline\\jquery.flot.spline.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\lib\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\gmaps\\gmaps.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\gmaps\\gmaps.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\highlightjs\\github.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\highlightjs\\github.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\highlightjs\\highlight.pack.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\highlightjs\\highlight.pack.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\images\\sort_asc.html",
+      "PackagePath": "staticwebassets\\Admin\\lib\\images\\sort_asc.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\images\\sort_asc_disabled.html",
+      "PackagePath": "staticwebassets\\Admin\\lib\\images\\sort_asc_disabled.html"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\Admin\\lib\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\Admin\\lib\\images\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\Admin\\lib\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jquery-toggles\\toggles-full.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jquery-toggles\\toggles-full.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jquery-toggles\\toggles.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jquery-toggles\\toggles.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jquery.sparkline.bower\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jquery.sparkline.bower\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jquery.steps\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jquery.steps\\jquery.steps.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jquery.steps\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jquery.steps\\jquery.steps.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jqvmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jqvmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\medium-editor\\default.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\medium-editor\\default.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\medium-editor\\medium-editor.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\medium-editor\\medium-editor.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\medium-editor\\medium-editor.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\medium-editor\\medium-editor.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\morris.js\\morris.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\morris.js\\morris.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\morris.js\\morris.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\morris.js\\morris.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\parsleyjs\\parsley.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\parsleyjs\\parsley.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\perfect-scrollbar\\js\\perfect-scrollbar.jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\perfect-scrollbar\\js\\perfect-scrollbar.jquery.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\popper.js\\popper.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\popper.js\\popper.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\rickshaw\\rickshaw.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\rickshaw\\rickshaw.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\rickshaw\\rickshaw.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\rickshaw\\rickshaw.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\spectrum\\spectrum.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\spectrum\\spectrum.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\spectrum\\spectrum.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\spectrum\\spectrum.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\summernote\\font\\summernote291f.eot",
+      "PackagePath": "staticwebassets\\Admin\\lib\\summernote\\font\\summernote291f.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\summernote\\font\\summernote291f.ttf",
+      "PackagePath": "staticwebassets\\Admin\\lib\\summernote\\font\\summernote291f.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\summernote\\font\\summernote291f.woff",
+      "PackagePath": "staticwebassets\\Admin\\lib\\summernote\\font\\summernote291f.woff"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\summernote\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\lib\\summernote\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\summernote\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\summernote\\summernote-bs4.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\Admin\\lib\\summernote\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\summernote\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\css\\theme-1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-1.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\fontawesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\all.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\fonts\\IranianSans.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\fonts\\IranianSans.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.svg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\fonts\\IranianSans.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\fonts\\IranianSans.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.woff"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\fonts\\IranianSans.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\b.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\b.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-banner.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-5.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-6.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-5.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-6.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\clients\\profile-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-1.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\clients\\profile-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-2.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\clients\\profile-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-3.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\clients\\profile-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-4.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\clients\\profile-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-5.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\clients\\profile-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-6.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\jj.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\jj.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\me.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\me.jpeg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\p.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\p.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\pp.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pp.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\ppp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ppp.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\profile-lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile-lg.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\project\\project-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\project\\project-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\project\\project-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\project\\project-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\project\\project-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-5.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\project\\project-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-6.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\project\\project-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-7.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\project\\project-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-8.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\project\\project-figure-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-figure-1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\project\\project-figure-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-figure-2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\promo-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-banner.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\images\\resume-profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resume-profile.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\plugins\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\assets\\plugins\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\popper.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\00228be4ef4b4f2c83ec6ba06e059666.png",
+      "PackagePath": "staticwebassets\\images\\catalogs\\00228be4ef4b4f2c83ec6ba06e059666.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\0b7b311171564113be5c67bf9480dcce.png",
+      "PackagePath": "staticwebassets\\images\\catalogs\\0b7b311171564113be5c67bf9480dcce.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\2a52280941154c848ce43225b2134c1c.png",
+      "PackagePath": "staticwebassets\\images\\catalogs\\2a52280941154c848ce43225b2134c1c.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\865f47e0b72245538eb715c25dc6c550.png",
+      "PackagePath": "staticwebassets\\images\\catalogs\\865f47e0b72245538eb715c25dc6c550.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\defdacbad9ac4f4a9f3a3f452dc5cd4c.png",
+      "PackagePath": "staticwebassets\\images\\catalogs\\defdacbad9ac4f4a9f3a3f452dc5cd4c.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\e874286135b74892b1af1361895a871c.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogs\\e874286135b74892b1af1361895a871c.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\thumbs\\00228be4ef4b4f2c83ec6ba06e059666.png",
+      "PackagePath": "staticwebassets\\images\\catalogs\\thumbs\\00228be4ef4b4f2c83ec6ba06e059666.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\thumbs\\0b7b311171564113be5c67bf9480dcce.png",
+      "PackagePath": "staticwebassets\\images\\catalogs\\thumbs\\0b7b311171564113be5c67bf9480dcce.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\thumbs\\2a52280941154c848ce43225b2134c1c.png",
+      "PackagePath": "staticwebassets\\images\\catalogs\\thumbs\\2a52280941154c848ce43225b2134c1c.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\thumbs\\865f47e0b72245538eb715c25dc6c550.png",
+      "PackagePath": "staticwebassets\\images\\catalogs\\thumbs\\865f47e0b72245538eb715c25dc6c550.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\thumbs\\defdacbad9ac4f4a9f3a3f452dc5cd4c.png",
+      "PackagePath": "staticwebassets\\images\\catalogs\\thumbs\\defdacbad9ac4f4a9f3a3f452dc5cd4c.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\catalogs\\thumbs\\e874286135b74892b1af1361895a871c.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogs\\thumbs\\e874286135b74892b1af1361895a871c.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\images\\defaults\\default.png",
+      "PackagePath": "staticwebassets\\images\\defaults\\default.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Portfolio\\Portfolio.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Portfolio.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Portfolio.web.props",
+      "PackagePath": "build\\Portfolio.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Portfolio.web.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Portfolio.web.props",
+      "PackagePath": "buildTransitive\\Portfolio.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

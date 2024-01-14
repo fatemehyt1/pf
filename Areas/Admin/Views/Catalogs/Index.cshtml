@@ -1,0 +1,60 @@
+﻿@using Portfolio.web.Utilities.ImageHandler
+@model List<Portfolio.web.Entities.Catalogs.Catalog>
+
+@{
+    ViewData["Title"] = "کاتالوگ ها";
+}
+
+
+
+
+
+<div class="am-pagebody">
+
+    <div class="card pd-20 pd-sm-40">
+        <h6 class="card-body-title">@ViewData["Title"]</h6>
+        <br />
+        <div class="col-md-12 margin-bottom-10">
+            <a asp-area="Admin" asp-controller="Catalogs" asp-action="CreateCatalog" class="btn btn-purple">افزودن</a>
+        </div>
+        <br />
+        <div class="table-responsive">
+            <table class="table mg-b-0">
+                <thead class="bg-purple">
+                    <tr>
+                        @* <th>
+                            <label class="ckbox mg-b-0">
+                                <input type="checkbox"><span></span>
+                            </label>
+                        </th> *@
+                        <th>عنوان</th>
+                        <th>توضیحات</th>
+                        <th style="width: 150px" scope="col">تصویر</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Any())
+                    {
+                        foreach (var catalog in Model)
+                        {
+                            <tr id="slider-item-@catalog.Id">
+                                
+                                <td>@catalog.Title</td>
+                                <td>@catalog.Description</td>
+                                <td style="width: 150px">
+                                    <img src="@(PathTools.CatalogImageThumb + catalog.Image)" alt="">
+                                </td>
+                                @* <td>
+                                    <a asp-area="Admin" asp-controller="Slider" asp-action="EditSlider" asp-route-id="@catalog.Id" class="btn btn-warning btn-sm">ویرایش</a>
+                                    <button onclick="deleteSlider(@catalog.Id)" class="btn btn-danger btn-sm">حذف</button>
+                                </td> *@
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div><!-- card -->
+
+
+</div><!-- am-pagebody -->
